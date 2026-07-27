@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jjuanrivvera/atlassian-cli/releases/download/v0.1.0/atlassian-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "atlassian.exe"
+            ],
+            "hash": "e47c23807ff9c9cf8627c1ce5323d2cc7ae9551483235ee877daf689e353130b"
+        }
+    },
+    "homepage": "https://github.com/jjuanrivvera/atlassian-cli",
+    "license": "MIT",
+    "description": "Jira, Confluence, JSM and Agile from the command line"
+}
