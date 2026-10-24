@@ -1,12 +1,12 @@
 {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/atlassian-cli/releases/download/v0.4.2/atlassian-cli_0.4.2_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/atlassian-cli/releases/download/v0.4.3/atlassian-cli_0.4.3_windows_amd64.zip",
             "bin": [
                 "atlassian.exe"
             ],
-            "hash": "b9a133832b9a707f403f39e4077aaef157383da4c2ca40e2e3666b532a8a08b7"
+            "hash": "b7645fbfa7904539c2a7497e85499f02a745f2628196baec7112112459d39676"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/atlassian-cli",
